@@ -1,0 +1,1 @@
+export default "<YOUR_SERVER_URL>";

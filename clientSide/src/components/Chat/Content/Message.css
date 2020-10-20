@@ -1,0 +1,36 @@
+.own-message {
+    justify-content: flex-end;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.author {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.message-content {
+    padding: 15px;
+}
+
+.own-message-content {
+    flex-direction: row-reverse;
+    background-color: blue;
+    color: white;
+    margin-bottom: 15px;
+    margin-right: 5px;
+
+    border-radius: 20px 20px 0 20px;
+}
+
+.other-message-content {
+    margin-top: 15px;
+    margin-left: 5px;
+    background-color: lightgrey;
+    border-radius: 0px 20px 20px 20px;
+}
