@@ -21,9 +21,9 @@ and the user becomes its Admin. Number of members is unlimited. Room is automati
 ## Configuration
 
 Dependencies must be installed in both clientside and serverside.
-Use '''npm i''' to download the dependecies.
-In '''serverSide/.env''' file mysql data and client side origin must be entered.
-In '''clientSide/src/config.js''' file server url must be entered.
+Use ```npm i``` to download the dependecies.
+In ```serverSide/.env``` file mysql data and client side origin must be entered.
+In ```clientSide/src/config.js``` file server url must be entered.
 
 ---
 
